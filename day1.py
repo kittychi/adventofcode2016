@@ -5,6 +5,7 @@ facing = [(1, 0), (0, 1), (-1 ,0), (0, -1)]
 def day1(directions):
 	facing_index = 0
 	current_pos = (0, 0)
+	visited = [(0, 0)]
 	for direction in directions:
 		left_right = direction[0:1]
 		if left_right == 'L': 
@@ -13,8 +14,14 @@ def day1(directions):
 			facing_index = (facing_index + 1) % 4
 
 		number_blocks = int(direction[1:])
-		blocks_to_travers = multiply_block(number_blocks, facing[facing_index])
-		current_pos = traverse(current_pos, blocks_to_travers)
+		for block in range(0, number_blocks):
+			current_pos = traverse(current_pos, facing[facing_index])
+			if current_pos in visited: 
+				print("VISITED!")
+				return (current_pos)
+			else: 
+				print(visited)
+				visited.append(current_pos)
 	return(current_pos)
 
 
@@ -29,4 +36,4 @@ test2 = ["R2", "R2", "R2"]
 test3 = ["R8", "R4", "R4", "R8"]
 (x, y) = day1(inputs.day1input)
 print(x, y)
-print(x+y)
+print(abs(x)+abs(y))
