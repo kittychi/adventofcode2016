@@ -20,7 +20,6 @@ def day1(directions):
 				print("VISITED!")
 				return (current_pos)
 			else: 
-				print(visited)
 				visited.append(current_pos)
 	return(current_pos)
 
