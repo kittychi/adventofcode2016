@@ -14,6 +14,21 @@ def day2(lines):
 			digit = instructions[instruct](digit)
 		print(digit)
 
+binstruct = {'U': {'1':'1', '2':'2', '3':'1', '4':'4', '5':'5', '6':'2', '7':'3', '8':'4', '9':'9', 'A':'6', 'B':'7', 'C':'8', 'D':'B' },
+			 'D': {'1':'3', '2':'6', '3':'7', '4':'8', '5':'5', '6':'A', '7':'B', '8':'C', '9':'9', 'A':'A', 'B':'D', 'C':'C', 'D':'D' },
+			 'L': {'1':'1', '2':'2', '3':'2', '4':'3', '5':'5', '6':'5', '7':'6', '8':'7', '9':'8', 'A':'A', 'B':'A', 'C':'B', 'D':'D' }, 
+			 'R': {'1':'1', '2':'3', '3':'4', '4':'4', '5':'6', '6':'7', '7':'8', '8':'9', '9':'9', 'A':'B', 'B':'C', 'C':'C', 'D':'D' }}
+
+def day2b(lines):
+	digit = '5'
+	for line in lines: 
+		for instruct in line[:]:
+			digit = binstruct[instruct][digit]
+		print(digit)
+
 test1 = ["ULL", "RRDDD", "LURDL", "UUUUD"]
 
+print("part 1:")
 day2(inputs.day2input)
+print("part 2:")
+day2b(inputs.day2input)
