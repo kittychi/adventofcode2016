@@ -2807,3 +2807,5 @@ shoewudys-rkddo-qdqboiyi-530[doiqs]
 mrxivrexmsrep-gerhc-pefsvexsvc-828[ubzia]
 fydelmwp-mfyyj-hzcvdsza-769[anbml]
 rwcnawjcrxwju-ljwmh-bqryyrwp-277[nxatm]'''
+
+day5input = 'ojvtpuvg'
