@@ -14,6 +14,7 @@ def day4(rooms_list):
 			if letter == '-':
 				continue
 			frequency[letter] += 1
+
 		sorted_frequency = sorted(frequency.items(), key=lambda x:(-x[1], x[0]))
 		sorted_letters = [letter for (letter, freq) in sorted_frequency]
 		top_5_letters= ''.join(sorted_letters[0:5])
