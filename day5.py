@@ -16,6 +16,7 @@ def day5(door_id):
 			# 	print('2: ', password_part2)
 			# print('1: ', password_part1)
 		counter += 1
+		print('.' * (counter % 5))
 	print(password_part1)
 	print(''.join([y for (x, y) in sorted(password_part2.items())]))
 
