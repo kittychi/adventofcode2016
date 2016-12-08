@@ -17,7 +17,7 @@ def day7(address_list):
 				break
 	print(tls_count)
 
-def day7b(address_list):
+def day7b(adNdress_list):
 	addresses = address_list.split()
 
 	ssl_count = 0
