@@ -21,15 +21,6 @@ def day9(compressed):
 
 	print(len(decompressed), decompressed)
 	
-def day9b(compressed):
-	markers = re.findall(r'\((\dx\d)\)', compressed)
-	decompressed_count = 0
-	cur_index = 0
-	while len(markers) > 0: 
-		marker = markers.popleft()
-		open_ = compressed[cur_index:].find(marker)
-
-
 def get_decompress_count(compressed, multiplier):
 	markers = re.findall(r'\((\d*x\d*)\)', compressed)
 	# print(markers, compressed)

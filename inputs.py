@@ -5505,3 +5505,236 @@ day8input = ''' rect 1x1
   rotate column x=1 by 5'''
 
 day9input = '(106x9)(9x11)XRTHYQJRI(16x7)PQFHWDDUNODSQZFA(3x14)UTS(46x5)(11x2)ZPIAOZZMWEI(4x15)SDLK(12x10)BUQRPYWOFRHL(3x2)IUD(376x15)(56x2)(2x8)HN(8x6)EMTIYSST(29x14)UMUBTFMGRIFIJMVOFTRZJBYZKRZTR(72x7)(15x14)AIEJQAVGCXESYMW(33x11)BOGWCYAIJENVPIZOHXMHVSICYNVYYOYSQ(5x4)LNSRH(121x10)(35x11)ORVPLTOAYEYSFLWFTVMEKGERUMSXJEQGTWZ(3x10)NAG(10x11)OUJQJHTAYV(33x6)GHVYZOGPXXWXXWQOTKASZXBTKSWGYIDHJ(8x12)TXOGOMWU(31x13)(24x12)GKJSZHQTICHXVETPQMHLIKZD(62x12)(11x5)DAGFHJAOZEC(7x13)TLJQCQX(6x9)QEYKQQ(14x15)IBMGNTVYJNFYMG(6x2)WFGDKTVLSHZ(1115x5)(1013x14)(217x11)(210x3)(84x10)(1x11)R(36x15)(11x6)HUVMUZQUMYK(13x9)SDEIKUSKFFAEZ(1x8)F(22x2)YUYFAEHLDJPJQSFYPBXAUK(112x2)(13x11)DRNBMPXQGENAK(5x10)UOQOS(74x12)(1x1)H(34x11)VMDPNZCXMDUXZVMWXPZSBLWRGIMVFVBRVT(9x7)OZEANBETJ(7x15)YBUYSRB(511x7)(10x10)APIIJSHFJV(7x15)SJPORJE(258x2)(12x7)IRKMMAWTWSNR(25x2)LIJXFEINITNKHOFIUYVCPXYQG(201x12)(25x13)(2x11)HL(11x7)WMJYXYQKTPR(8x5)(3x9)IED(59x1)(2x2)IN(28x1)HVPFGRCJZJDPLUZYGNBEDIMFFEER(11x13)PLHKRRWGNPS(84x11)(20x6)WWAVRKSRTDLBKLHJISBR(16x10)CHSRQEGJIMCWREFN(11x13)ZFCZEXMNDLD(4x12)UPTO(1x10)S(209x4)(6x15)VBEOYG(43x9)(36x15)RCUYZKJJSPCTMPDKNECVAKIMBNCNQLSXBOGX(120x6)(42x13)IIOMSJMCVFSGXZCNDKJEIGMCQJJQJPBIKOFLJYVYDE(65x8)(38x6)BXWAOHVVPAZPRPSRCVTJROMGTSPLZSSRUZHJRB(7x7)QPTZZWI(4x5)JMXC(14x13)ANRJGMCOUOZACW(262x14)(3x1)VBN(22x9)(15x12)QNTVQXRQOAGWVDO(5x5)EBIOE(209x3)(5x1)KKEOI(59x14)(33x1)(1x12)U(13x12)OAWCLEBIGSGYF(1x7)I(1x10)G(8x4)(2x14)VN(61x10)(8x9)(2x11)ZD(42x3)(1x14)B(7x4)VUJIEAW(9x3)DDEUJKZLK(3x12)HRR(59x5)(46x12)(9x14)LWUURXCZG(6x1)EDXRYN(8x7)HUKWCYPZ(1x15)X(1x4)O(87x2)(81x3)(74x15)(67x10)(11x3)PYMXZLPIGTV(20x1)(13x13)ZMUSHMNOPXURF(4x8)VKGK(9x14)DSLZDGTTF(1203x7)(3x4)MFL(1187x9)(1066x4)(5x8)SOWKN(355x1)(172x8)(16x2)LSNKBTLXICBYAATH(7x4)EARJIJQ(58x12)(25x9)KMDPCSXEHBUYDQTUXJAXSJJGR(2x9)MN(1x1)Z(9x9)WXHKYKNQS(66x13)(9x4)ODWMYKRMN(1x8)D(6x7)XQQLLL(28x15)GJYGVCVVBZAKCAOWRQSNOLINZFKI(23x8)OCHMAUQJOXIGSABGMYYBWZW(139x13)(10x3)GLORQKYCAY(4x1)OLUU(36x9)PYWSXXATEFBJZCHMBAXIUMLWCJNPJSBDYTYJ(29x14)MMXBFCWCUEDHGJFTXJHZRDDSAZYQI(30x5)(9x12)MGDCSHCJF(4x9)PCVC(1x8)P(224x2)(199x11)(116x14)(10x5)PSOXQOZVUJ(15x11)PREIEGEUXKJHJWM(18x8)DPKYWUSMRMMRLZDOJD(21x1)IKIUDARLRJKIYXWJSSMFU(21x3)VEWAZVPXDHAZATUOSBYEE(1x11)D(27x3)(6x5)KSJOIP(2x15)ES(2x10)VZ(5x4)ELIBQ(18x10)(2x8)KL(5x15)YMAUK(11x6)NCSCJVWDAYZ(315x13)(128x5)(44x3)(28x5)USNKISRLKAGRRTAGTUJSBGOAXPSK(5x7)EFRAK(9x2)ALTBMUGRE(18x15)DCACKZDYKLGSYRITDJ(32x11)(10x12)TDVREHQMVJ(9x13)EPYZHZZYA(172x12)(57x8)(7x15)PXTFHCL(6x5)BOMWYC(5x2)IEXWE(2x7)WQ(10x8)AQYJXQRSZR(6x2)(1x9)O(71x14)(19x5)SPETLGCDKHWOQWZLTVL(10x15)DLMIHRUKRN(1x1)O(16x15)LDTPGFXQCAQCLDRO(13x15)TSWHPYSEATHDK(132x14)(16x11)RZGNFDAZEGESANGQ(10x7)(4x14)BTVI(86x13)(6x12)DIEQPH(26x13)(13x10)IEHRXBOBLJASH(1x5)V(34x13)(3x2)LUZ(19x11)TFXNCNBTEGWWFQNUMSV(95x1)(88x15)(81x15)(75x7)(6x15)MYOAIV(27x11)HHUPWWHDBVOHBFUNLYCTMPXZQFV(10x4)NNUKRAHNBG(1x2)Y(1x14)H(7x8)KGTVHDA(4526x10)(1403x12)(823x11)(173x15)(65x2)(18x9)(1x1)X(7x3)UXNFNEC(17x15)(11x6)VGGSXXUTQXC(5x4)XLQTW(1x15)I(5x13)BBZPE(85x7)(25x13)(18x14)SYRQGMKVFELXOEWZHX(2x15)DI(8x7)PSUCVNHA(26x9)(20x4)CEOFIOFVTHURHLTEJENX(152x9)(21x7)(9x14)(3x15)AQI(1x7)T(105x2)(5x11)IJHWZ(79x7)(4x5)LSLD(32x12)NIWFUAQICZEKLRZUCUNTOQXZSVGNGWXA(25x3)VNCCKBWWEZLPMMTQVIHVNAVNF(3x12)PNO(7x15)ZKWZZNN(402x12)(33x14)(1x12)Q(20x3)(13x14)ZNQGPMLMDHOHA(71x10)(64x15)(32x4)ZEEQNVNJWTVNTCFOCXLLAWEWKTOKCXLI(6x5)DHXUCY(3x7)YHF(1x15)J(49x15)(1x2)J(19x14)FRWVSMECULVTKDZOLFL(10x15)XTJMYWZVNY(221x7)(80x4)(5x6)FWTSI(4x5)ILZF(9x2)DWZJDFTRQ(2x2)ZS(34x4)YHPNQVXRBPXCVLOALPLOZYPFTMLORQJRDA(97x11)(38x12)VFQPPKLDKONKGRDIMGZFPSAUDMORHVIVRUCTHW(12x7)DTNJXMTPNPQY(6x3)XTTARA(10x2)HOIDHPMENH(1x11)F(24x11)(17x13)ZACXCCWQXQSMIBYHT(67x1)(61x2)(2x11)YJ(2x5)RE(2x8)AR(20x1)UZQCIVXZWDSGNDVQUXKJ(7x11)GRMENOX(20x9)QATXEOBKUKWMYCGRDVTT(8x14)(3x8)LBU(524x13)(247x1)(17x9)NGFHNBQBBEQVBEOTN(81x13)(16x14)IJJGZRLQKBKYZKDY(19x7)QADJTDQALGHBRNXOAHZ(27x6)UCBWLIEXQMLITVCYJRMCZSHXVZC(2x4)IJ(122x4)(29x7)(4x10)IPTD(1x2)U(7x13)FQHGHXF(81x5)(19x8)ZSJMZXDCMEYHWDDEWDA(30x5)PSSYZWSCLTXPIVOMDBHQQFMXLIPVNB(14x7)LSVBCKXVMGZEKT(253x8)(245x14)(58x12)(28x9)LJWCSDAFPAHDMYOGANVBMLIIGREV(5x1)GYSJS(8x15)QEHNLLGC(69x5)(1x14)E(1x5)N(8x11)UNZJRSSK(21x10)XWDNKLRNWMKZWDXWNBGHR(8x11)ZUSQQCRK(75x9)(1x3)X(50x14)KAVUEBCVHWLJTQENBLTBPUPUKZACDKWCINHIDUPXNQFNFJUIWL(6x13)AUVWWH(18x7)ZZNFDDERASPWSJEWLD(5x2)HKGWP(2651x6)(1383x7)(461x5)(128x7)(42x3)(25x7)YSXKTOGNDCDPOYROSBGHHTSRH(6x7)WNYMCQ(73x13)(21x5)CKIVBNXGJZRGOSZGOXYZT(10x7)SEOMIDFXWO(4x2)LYSJ(2x8)PG(9x5)FUZBCOHKJ(123x15)(41x8)WRKTADXJEWMDHPWTGBUUZDRFJIDUQRKVBPXHAUNLV(21x6)AIUGQJXODZLQSTAAMOZYI(2x2)OE(23x4)NSCVVLVYUFKQOKXIHFWLLRL(7x13)(1x11)S(7x10)CSVFCCI(175x3)(68x14)(23x3)SFDPZUYYOZUEODNUZDGYEIL(24x8)DRSYWWCXZNDWFGDSXYGLWKDM(4x1)VFNG(45x2)(6x10)VJFABM(10x8)MHILZZGJEI(11x2)OJXDOYTFYNH(18x11)DWOSXKZNDFVSJAPWDO(17x12)OPQWGVFMXQVDODSVF(36x14)CMAXZTAPUKPNVOMBTRAGLAENFSSHBWHLDWGD(169x13)(83x4)(5x7)VPLCB(54x5)(17x5)VFSYWLWTCELQTHFFL(1x11)F(1x12)J(10x15)ZCEWDVDLWO(8x2)LUQQPDJB(73x10)(1x9)T(43x14)(7x3)JQDMFIN(4x10)QNBH(15x9)TMLNCGDVKAZUZAV(11x3)OFUJNKCJMPC(373x13)(46x1)(2x15)XV(31x13)(10x5)SYWLIKMGWE(9x13)YDUKMXTFB(179x8)(64x6)(29x13)DRKTESHRQOZUYAMOVLWGLEVWFPRZH(2x15)ZD(2x13)WG(6x14)UKVRCC(23x2)(8x13)MWLZMOBY(3x12)OGB(5x1)WDVZE(3x6)RFH(55x15)(1x9)O(32x3)TZEXSGPTNQOWCRUOHWMGFADKYNATQTIN(5x13)XDKRA(127x15)(48x9)(5x6)BASWG(6x13)YXPEJY(20x4)KMQZCOQGSQDJLFVKRYIA(5x13)DIKJD(25x8)(6x1)MDVSPU(9x5)NAOUNAWZL(25x4)ZTJTRATMHUYUKZJIVQQACDNQS(306x12)(23x4)(17x4)(11x1)NSDWGOSOMVW(6x11)MHVDRW(209x13)(15x6)(9x13)YXZNPPHRC(69x11)(9x12)HMQSVWJOC(6x13)ZQXEOU(4x5)LQYQ(6x4)QVOCPT(16x9)RDWSFNOWLMSQIOZB(68x12)(9x13)SNKVHMAJK(9x10)RCCOAFYWE(31x12)GIXNYAXBNWICGZBZVIQVBXEGJCALHBU(2x9)NN(23x10)EZHMCYAQVORSFDEMYFOQZXJ(42x9)(1x7)P(29x12)(22x15)UJUREDJIVDYWLUEXDOZVMM(9x11)DOUQESTOG(456x10)(3x5)LFW(380x8)(216x5)(34x3)(8x1)XKKMLZRI(7x9)SACBEEI(4x2)VBTG(93x2)(17x6)NLIOQMNAQULVVXGGC(1x9)I(9x7)COOYHTBXW(44x4)QFSVMBSZDWVRLVJTXBYFRQEHDCHFPLLUCAQWAVMUUMFK(24x14)RFLJMQTXKSOEJVSIGLQSZMCP(40x2)(13x12)EABYTPQRFHXYX(14x1)PUSFWCYLPFJGKN(149x15)(58x9)(9x6)NXRZDYALO(25x11)WVAKWWRFLGGWIHANUOLDFAQNW(6x10)TOFLHT(1x2)T(37x13)(10x11)OYPSTGHUQZ(13x14)JFVQKLPWPQMRA(17x10)QPQXJFXMJNYSTLBNU(5x11)ODNGE(8x4)(3x9)CCH(42x1)(5x13)TJAFV(1x14)S(4x7)VMCP(9x12)(4x4)JAZY(764x5)(22x6)BSPTZFBFVNNNBFHNEJJRGN(285x11)(4x2)SMPG(17x5)(11x7)UZEGANEKOUT(9x2)WQQZQZKDH(89x12)(82x11)(12x10)IQPDMEYGJLNY(10x13)HIWQBIEBHN(19x4)JHMWVRWKWKEIBBFLXZG(15x2)IMIQGNTZSXWEFXZ(136x4)(113x13)(27x14)YBNVEWUSSMRSOKNSFDUDIRZQRDU(23x12)TQYTJGLYVNMBBAPKFESPBMV(13x5)WWIGJKLYUBAHI(2x11)BG(15x14)PSRVOVQUSQLHHVT(9x15)(3x13)UXA(2x13)PR(5x11)FAZCK(417x5)(10x8)KYVNYYAFZB(30x9)HJSTGGVPIUURXIRLTOTAWZZSBMKDTQ(3x12)KRK(132x15)(7x5)GYTLJBJ(88x9)(16x4)FSTCSMXWPMDQYHIC(2x5)AA(12x12)ZVGRTDUXBBAJ(34x9)VWOYAGBTUTAVANZNBQKMVWPCVWWCVQKMUL(8x13)FFNTAMFZ(6x13)TZOWCJ(209x7)(15x5)(9x15)EPFVMFKEM(28x5)(1x6)O(4x4)PZJW(7x13)BPPUVRW(105x1)(27x15)YDQICFECTWQNNOFQNVYSXSLSSIW(3x13)MRI(22x15)HXFNVWTAHWNUSKIBUWZPXE(8x3)UUBWJFIT(13x10)KVAYOBTUJRZLU(25x6)(19x1)GKNCXHXAEDZGECPIXZN(5x14)AWAIZ(5x3)QXGBM(448x4)(44x10)(9x4)GGBPTRJWG(23x14)(16x12)(4x14)ETAJ(1x3)C(389x14)(15x5)QTVVMFYIWSOHLDC(164x10)(7x9)(2x8)UB(79x15)(23x10)WSURFVWPENVPZWTXCIXWVFD(31x2)(7x5)XGBQMLO(1x12)W(6x11)IXBRCD(7x5)LMUGOLC(15x2)YQIPKKZYPRXVLDY(7x5)OFTXXXQ(27x3)(1x2)B(14x10)(8x15)FZNYFCBA(126x4)(4x3)XJZA(34x11)(10x6)PKLXXXUMLP(5x5)NHVFK(2x14)NY(70x4)(3x11)EJP(55x9)(20x12)MVMUIYLATZBKUKCGLLUJ(13x5)BBNDWLPRYFCFA(3x12)LXS(43x5)(25x10)(8x15)PZOWGYHQ(5x12)TORCD(5x13)DUGBQ(8x13)JFPXQEMR(1099x7)(1081x11)(280x8)(47x12)(41x3)(2x5)LW(16x13)FQDDWIXNCRWCZGPA(5x10)FXAPI(219x6)(1x4)Q(206x4)(87x1)(3x8)AOQ(48x12)JVVMHWAHKTMOFDLIMOBCSQGMRFHVZSRRDRVFQLUYKUQEWRZN(18x8)PZWWDHMNYFOLWQFWCX(70x10)(34x3)KULICMONTPUTHKRSIBFYLHZYFMXBQUSASZ(23x15)OVSCBTAQIWDTCNSOTOPQZLK(20x1)(14x8)FBAKRNAAVXFORR(4x10)AAUB(770x13)(15x1)HFFGWWKCGKHROND(267x8)(7x11)KEXHRVD(64x2)(58x2)(28x10)KZFBJNKUEAGMUOXDECTMFNAGAEDH(3x1)JEP(3x10)YTA(1x8)C(12x2)AZNZYZXAPRHA(38x7)JLONYUNRPLPPEWXNZCJMJVHXJCPTABUTCCPKJP(114x10)(81x15)(18x10)UWYFEBEONZYIKSVQTV(15x3)NIMRZIPSGLWLCTZ(29x2)JQYDQFMACFHMIXWSESYTZSZKVYXWN(20x9)(6x4)CMJFBX(4x9)DADR(10x14)(4x12)QVQE(203x2)(11x15)OVDTKQKMSEU(50x12)(4x10)GSTQ(4x4)OYLA(9x10)OVQDPYXCN(10x9)GDPYMBBAZS(32x4)(3x8)XQH(18x7)(5x15)EVFWX(2x2)VR(84x7)(63x3)(8x9)KRZVMGIP(9x6)PDQLFPREC(22x4)TEPAFTWWKSLZMCAORJLYKT(3x4)GTY(9x14)QUHNXEMAJ(241x4)(142x4)(16x8)VDVCOCCPCCFKETEJ(61x8)(10x1)BTZWZTKMNK(8x1)LVGYEELS(9x12)WVYYDGWHV(11x7)GLWNBQBUECN(3x8)FAS(39x3)(6x3)XQNBMM(5x6)YRFJS(11x12)LSRASFYIJQQ(86x8)(72x11)(1x15)J(7x4)PQJQAVG(27x11)TGUSOHUVTBQAZDPQJTWHLWUHDPL(5x4)PJXKR(4x9)DALR(2x6)TZ(10x6)VREJNKOUNC(3x13)XDW(4842x5)(997x12)(252x13)(244x10)(92x15)(8x3)XGBYBMNX(48x2)(13x12)IRGHMKRFDLYSO(22x7)UHFLJHQRPHZXTFABOWZYTH(19x7)GMSJSPDKXPWKMLNGBDG(93x4)(34x2)(13x14)KBKCSHDZMRCGF(9x8)DVUHTXDPA(47x8)(1x7)E(11x15)AEMNFZGZGFN(6x9)EATZHS(6x11)NEBGMR(5x9)GPSUG(24x9)(5x15)AJOLD(8x8)(3x3)QOR(1x3)C(1x10)D(709x7)(361x14)(136x3)(25x12)(18x14)XVVMXAZPTMJNLLBUAZ(1x10)Z(77x12)(4x1)OIZF(9x12)KBJGFWQXY(10x9)ODUWORENBC(30x13)QWZLHWYZMYMGPNIEVGXFRGWGBALMUE(7x11)HEMNOOI(6x11)KEOATU(36x9)WLUYXNLTKNEUMDCXKVOJZUCDVDSJAIBVRHUM(142x3)(10x5)HHGWZFKZTY(13x2)(8x5)QZAOTRMN(22x7)XKBCFWINOZXSWQPWNQTBCG(40x8)(27x12)MTNVFPSSNFOCDOJLZEAXUHTKQZU(1x1)N(26x10)LRMPWHWPOPJCTABQOMKTVFRVUP(9x14)BLLTZYMAK(35x9)(29x1)(1x7)B(9x11)IKKNFOBWI(3x1)OYM(292x6)(187x14)(43x6)(26x14)UZSLNMHXIPSULQAUOFOAABTNFQ(5x4)ZLXWV(10x14)RWUDXDKKBX(56x8)(2x15)LE(13x7)EOVBBOPSHZEST(1x15)P(16x5)VVYVUUZYNTYAMHRH(52x10)(5x10)DBONH(4x2)BGZL(18x2)URQQQNMXEBJFCUTCYM(3x2)SFW(6x10)OVCAES(79x2)(28x2)(14x5)CUFVZPMDBRKXEJ(3x5)BHS(11x15)KLGYQEWYWRX(21x1)KUHXSHMRWCSVNQEWYZLOW(9x6)(3x15)QXH(130x8)(123x9)(1x6)U(21x11)RDSMVCJRFJVBOEFDYDXDC(1x12)V(75x15)(16x4)(10x8)HICDCVFPRJ(39x2)(32x11)CKIWOYILGNSPTLCRNBKHDBFYJSNHWTGI(2x13)XB(2104x9)(624x14)(14x5)IXLIPAITEYXDOQ(285x1)(8x4)(3x4)IFG(264x12)(73x11)(11x9)OZPAHCWPRLC(3x12)MER(14x5)NEVCTXSUWSUKUT(4x6)CWWL(12x9)SOZLLIWLBCRQ(120x14)(7x2)QUXKOQH(20x4)NZCDKXCAUOHXCTZVZBGK(36x5)LLSDPUODUHNZZIEILEITMOIFZYKETEQYXSPA(33x14)QZYZLELILPPXJESIKHMRHQIWYRSPTPQZM(12x12)ZBTHPBBSIQML(8x6)(3x8)PQO(18x4)LSRWALFXBPFAYASBCN(304x15)(115x14)(11x5)NDRMIWDFXLS(21x3)WYTPAJFFQRMMGKFKRUFDP(16x14)(5x5)TFIYQ(1x4)Q(42x2)(9x6)MTLUVUICE(21x13)PSAWOZKGEDBMYKQWSTVHE(160x1)(35x15)(2x4)DH(21x14)PRTMTXIFMNVEDPJMBWMQT(110x14)(40x10)SLTGIKWNTMRKMGOZBHKEXUOCNBXXLKXBTRQIRGBT(5x3)SVGWG(15x14)YPDOEQAOPXWLDCW(5x10)FERKL(13x15)JGADNIZJWJPGF(9x2)IUHRKDBZL(650x1)(247x13)(11x15)VSMCRFPEZZT(222x8)(5x13)LZEMC(20x7)(9x3)SCYZNYSNN(1x5)E(27x13)WPGVTWQQPBTMIKAJGLCRUVHMQQU(45x5)(25x5)RGHYBXIOYEWROHSLNZDBIIDVN(1x14)H(2x2)GZ(93x14)(4x3)MALG(14x11)ELNMFSMJELTNUK(30x13)BWYJXQCLFUCEEAJSMKZVNZKRMXLKUS(20x1)AQXNCZFHHRSPKCKGGOMB(17x7)(5x11)NCBRZ(1x5)P(165x11)(158x3)(82x12)(13x5)XTMWESLDNRMHG(2x15)KH(17x7)PQEAVJXDANCUPGSLP(17x9)LCNRNCPBPMLOISKGR(4x7)GFZY(8x9)XRCLELSK(5x11)QMEVO(27x7)(8x1)SOKUTHGS(9x8)UALUVMNQH(7x9)(1x11)D(184x12)(153x2)(68x5)(2x8)ZH(7x15)ZITYBMU(15x7)LTDDFKHHAMXWXXD(4x10)LUPJ(10x11)YJNJASSYRG(46x11)(1x2)W(4x9)IEQJ(3x3)UKM(16x11)WXUSIQCDVSBAXOPS(11x9)IWMFVPPUPUT(3x10)RKS(18x1)(12x1)GQVAPJBBPHGU(2x2)JK(738x15)(300x6)(3x4)CTY(12x1)CHTPRLGESSBU(79x12)(13x9)ENTAQMMKZVDLK(47x2)(18x15)WDSWHJAIVWAYSZLUQB(16x8)AGASECFOQXOHAVHR(2x1)VL(13x12)(8x1)(3x2)CCI(161x7)(15x9)JXSYWJMVFVATSGU(25x7)LGAOGOYZHUOPTGKCGNIRWZBKY(18x3)UWXGRBWDTAIRDYIZCO(78x11)(3x3)ULJ(10x3)ZJSXKZRYMT(3x6)MNO(40x9)STSTBHUEWUJNTURWDQWYMRTICOFAUOUDIDVRMIVH(9x9)JKLBNUNYG(29x9)(7x8)(1x15)L(11x8)BXBZWEMUOAL(6x4)YAXZBQ(364x4)(30x7)(23x13)(7x14)YVIUEGV(5x8)SWFME(24x14)(18x7)GJQANDGGNHGYSJYCUT(259x1)(54x4)(3x6)DJU(3x2)QPA(8x5)PVFACROM(13x3)LAIAUBLOKLWKS(1x8)Z(51x14)(12x13)DPBUJBFBYMSX(10x3)VJBQNZVKMD(3x12)LFA(2x3)AF(64x15)(1x7)K(20x11)NFWRJVILHYUELYJMKQTZ(15x6)WSSBZOMIAJIXXFC(5x8)ROFAC(63x13)(9x7)TDZCJRWCA(21x7)WTIZFLFASCCSEIETQEWHZ(8x1)FIRELLBC(3x13)LFU(25x7)(2x9)XX(12x6)WCNYJNELHJHA(41x9)QQXXYIMOIDKERUPKLOVPQJNEVTRTYMFRWUWACXJDR(15x10)NSTJZRPNHPZWDVX(1580x2)(708x8)(97x2)(5x9)VZIDJ(1x13)N(20x12)(13x13)XATSLQMMKWPXG(47x1)(40x15)(7x8)OTKYINE(6x8)ODYXHZ(5x14)YXWVW(1x1)J(341x4)(162x11)(84x4)(10x13)VXVYXUBYDW(5x12)NSHFA(23x15)BNRDMEPHAGSHSCZHHDAIZUS(20x5)HVDIFWMLBSBVTEHJWQJN(39x13)(7x1)SOEXQCQ(1x6)U(15x9)NMOLXZYAIJYGFRJ(20x8)XUSYHKXNEIDYIYQEAQDA(123x1)(12x11)VUFGERAJPFHP(97x13)(21x5)YBQENCSIXTAGAQBKQBMEC(23x11)NIQFTFDBPBQWNKDFCJESGRW(26x3)SUHBRMUUWBUWDPFXJNVLRNWDOD(3x6)EHV(34x13)(17x7)LNGOEDYMGNMXCFHMQ(6x3)(1x4)D(161x10)(154x8)(46x4)(9x5)BRBRYFXAV(6x10)QSQLSI(5x8)PKLIP(4x14)PVDZ(3x9)XTX(14x12)PCWMKNCXRGBVTE(48x9)(9x4)WZCQSXSHI(1x1)K(14x11)JQCMIVDEYPSEVC(1x13)J(13x5)VNSSQTVMKTCFA(82x8)(75x10)(69x2)(24x5)FSOFLQQRBAHGKMGKJGQVQGBI(22x1)SJIOMAZFFJRSIEEEFAKDAO(6x8)PSJSWQ(641x5)(98x5)(59x7)(52x15)(9x6)HRVKJOZAH(4x6)WLQM(4x5)PBFW(2x6)XI(7x15)KLOPMVW(27x6)ZNPIAJJQXGUIGHBKOKHQBWGBZVZ(156x7)(122x7)(6x6)(1x8)P(104x2)(16x2)MNDFDYXRITXXDLEH(19x14)JPYHCDKPRSGYXPWBSKH(2x8)FN(5x10)NJOBT(32x4)NDHQDDIPCDMCSAEOMXMQHMRQNVWFFJVJ(21x8)QIXUGWWUWITEQMUAOTVKQ(19x3)ERNZJGVAEHQUGONCWDX(7x12)ZHRLNEZ(329x5)(40x2)(1x6)N(28x9)(21x12)OLSBQBJBSWMTAFKRFZRUS(1x1)K(12x1)XPRGMUQACMXM(251x14)(104x3)(8x15)KPNLLXEV(46x11)TMMYMYKCGRANQWGAOEOJUCWLHQJUPTVBHFDQXTGHVMSRFG(4x15)XKHI(4x9)XIEI(11x15)ULUNGCQYIOY(42x5)(3x1)UTG(6x15)QNUTCB(7x13)MYSLDFB(3x10)QFN(8x10)(3x4)PRG(71x11)(14x12)UIRBPBPJBPKAMJ(20x4)MTHYOYWHXSOCJDGNARDD(5x14)JNNIT(8x6)XTKCXYLV(177x5)(170x5)(163x4)(60x7)(18x15)KERNRSOLVJUVYBSXHN(29x4)MRMIQIPELOTMVJLUTDMRGOWYJZBCG(48x5)(11x6)AUULLHIMSFL(12x10)VKHLVSWVDWAG(7x3)GSFEEZG(7x9)FFNIRRF(25x6)WZENYZGOHABPYXYQOWGONUYZR(26x13)GDROCQTRWRMWYJWARKOGOYZRQQOIF(3x7)SQQ(50x1)(44x5)(11x4)UWDYIGQSEPO(3x3)ALC(13x3)NBMTXSGHRHVEW(1x14)I(5x15)IFXHF(202x6)(6x2)(1x5)G(57x10)(22x5)KPHIQKTUBHTXNFCXSLAPYO(5x11)AFRRO(4x7)ZVIV(4x4)VQOX(89x9)(22x1)LYTBUJUAMMOSHUKVVSZKPV(8x8)INDYCWDW(4x12)BMGE(5x1)QKUMN(21x13)RHRVFAOYMEXHQFDWDWZEC(1x15)L(18x11)(12x2)NXCFFANKSYYU'
+
+day10 = '''bot 153 gives low to bot 105 and high to bot 10
+  bot 84 gives low to bot 149 and high to bot 198
+  bot 32 gives low to bot 124 and high to bot 76
+  bot 177 gives low to output 8 and high to bot 19
+  bot 64 gives low to bot 6 and high to bot 179
+  bot 115 gives low to bot 181 and high to bot 190
+  bot 169 gives low to bot 21 and high to bot 60
+  bot 106 gives low to bot 17 and high to bot 84
+  bot 129 gives low to bot 52 and high to bot 57
+  bot 208 gives low to bot 78 and high to bot 121
+  bot 179 gives low to bot 101 and high to bot 103
+  bot 42 gives low to bot 125 and high to bot 67
+  bot 164 gives low to bot 49 and high to bot 71
+  bot 175 gives low to bot 135 and high to bot 201
+  bot 71 gives low to bot 207 and high to bot 88
+  bot 12 gives low to output 4 and high to bot 125
+  value 11 goes to bot 124
+  bot 190 gives low to bot 41 and high to bot 171
+  bot 18 gives low to bot 189 and high to bot 110
+  value 2 goes to bot 93
+  bot 48 gives low to bot 45 and high to bot 68
+  bot 145 gives low to bot 55 and high to bot 157
+  bot 151 gives low to bot 146 and high to bot 162
+  bot 160 gives low to bot 39 and high to bot 56
+  bot 39 gives low to bot 205 and high to bot 79
+  bot 16 gives low to bot 174 and high to bot 132
+  bot 152 gives low to bot 206 and high to bot 166
+  bot 107 gives low to bot 160 and high to bot 184
+  bot 111 gives low to output 11 and high to bot 163
+  bot 24 gives low to bot 42 and high to bot 159
+  bot 120 gives low to bot 30 and high to bot 183
+  bot 130 gives low to bot 80 and high to bot 146
+  bot 117 gives low to output 17 and high to bot 174
+  value 47 goes to bot 107
+  bot 77 gives low to bot 70 and high to bot 50
+  value 67 goes to bot 205
+  bot 167 gives low to bot 202 and high to bot 33
+  bot 28 gives low to output 12 and high to bot 139
+  bot 20 gives low to bot 147 and high to bot 7
+  bot 54 gives low to bot 183 and high to bot 175
+  value 71 goes to bot 21
+  bot 59 gives low to output 2 and high to bot 47
+  bot 72 gives low to bot 54 and high to bot 53
+  value 23 goes to bot 120
+  bot 17 gives low to bot 162 and high to bot 149
+  bot 15 gives low to bot 182 and high to bot 1
+  bot 90 gives low to bot 15 and high to bot 195
+  bot 170 gives low to bot 158 and high to bot 69
+  bot 22 gives low to bot 65 and high to bot 62
+  bot 46 gives low to bot 92 and high to bot 90
+  bot 69 gives low to bot 59 and high to bot 49
+  bot 58 gives low to bot 140 and high to bot 45
+  bot 148 gives low to bot 151 and high to bot 17
+  value 17 goes to bot 189
+  bot 180 gives low to output 18 and high to bot 134
+  bot 205 gives low to bot 197 and high to bot 0
+  bot 97 gives low to bot 126 and high to bot 108
+  bot 196 gives low to bot 2 and high to bot 37
+  bot 158 gives low to output 7 and high to bot 59
+  bot 5 gives low to bot 187 and high to bot 95
+  bot 2 gives low to bot 164 and high to bot 99
+  bot 19 gives low to output 14 and high to bot 158
+  value 5 goes to bot 13
+  bot 103 gives low to bot 43 and high to bot 75
+  bot 161 gives low to bot 73 and high to bot 24
+  bot 99 gives low to bot 71 and high to bot 91
+  bot 83 gives low to bot 179 and high to bot 113
+  bot 14 gives low to bot 31 and high to bot 104
+  bot 55 gives low to bot 51 and high to bot 5
+  bot 127 gives low to bot 66 and high to bot 65
+  bot 34 gives low to bot 137 and high to bot 112
+  value 3 goes to bot 111
+  bot 135 gives low to bot 203 and high to bot 152
+  bot 194 gives low to bot 107 and high to bot 40
+  bot 166 gives low to bot 87 and high to bot 26
+  bot 184 gives low to bot 56 and high to bot 23
+  bot 116 gives low to bot 23 and high to bot 168
+  bot 113 gives low to bot 103 and high to bot 92
+  bot 47 gives low to output 6 and high to bot 200
+  bot 65 gives low to bot 170 and high to bot 192
+  bot 52 gives low to bot 83 and high to bot 119
+  bot 139 gives low to output 5 and high to bot 81
+  bot 142 gives low to bot 153 and high to bot 172
+  value 73 goes to bot 30
+  bot 44 gives low to bot 145 and high to bot 70
+  bot 133 gives low to bot 127 and high to bot 22
+  bot 163 gives low to output 19 and high to bot 117
+  bot 75 gives low to bot 196 and high to bot 182
+  bot 136 gives low to bot 134 and high to bot 73
+  value 29 goes to bot 185
+  bot 73 gives low to bot 12 and high to bot 42
+  bot 31 gives low to bot 109 and high to bot 97
+  bot 91 gives low to bot 88 and high to bot 51
+  value 59 goes to bot 39
+  bot 110 gives low to bot 72 and high to bot 53
+  bot 186 gives low to bot 38 and high to bot 188
+  value 19 goes to bot 185
+  bot 154 gives low to bot 16 and high to bot 98
+  bot 81 gives low to output 20 and high to output 3
+  bot 92 gives low to bot 75 and high to bot 15
+  bot 202 gives low to bot 74 and high to bot 208
+  bot 183 gives low to bot 100 and high to bot 135
+  bot 68 gives low to bot 64 and high to bot 83
+  bot 198 gives low to bot 4 and high to bot 137
+  bot 61 gives low to output 13 and high to bot 109
+  bot 209 gives low to bot 102 and high to bot 153
+  bot 201 gives low to bot 152 and high to bot 166
+  bot 181 gives low to bot 90 and high to bot 41
+  bot 56 gives low to bot 79 and high to bot 186
+  bot 49 gives low to bot 47 and high to bot 207
+  bot 6 gives low to bot 133 and high to bot 101
+  bot 4 gives low to bot 35 and high to bot 129
+  bot 11 gives low to bot 117 and high to bot 16
+  bot 38 gives low to bot 89 and high to bot 138
+  value 13 goes to bot 169
+  bot 118 gives low to bot 11 and high to bot 154
+  bot 29 gives low to bot 198 and high to bot 34
+  bot 197 gives low to bot 32 and high to bot 9
+  bot 185 gives low to bot 18 and high to bot 110
+  bot 174 gives low to output 0 and high to bot 177
+  bot 33 gives low to bot 208 and high to bot 144
+  bot 78 gives low to bot 29 and high to bot 27
+  bot 172 gives low to bot 10 and high to bot 178
+  bot 146 gives low to bot 204 and high to bot 122
+  bot 57 gives low to bot 119 and high to bot 141
+  bot 3 gives low to bot 48 and high to bot 35
+  bot 70 gives low to bot 157 and high to bot 50
+  bot 122 gives low to bot 58 and high to bot 48
+  bot 96 gives low to bot 61 and high to bot 31
+  bot 128 gives low to bot 141 and high to bot 115
+  bot 173 gives low to bot 163 and high to bot 11
+  bot 105 gives low to bot 136 and high to bot 161
+  bot 157 gives low to bot 5 and high to bot 176
+  bot 9 gives low to bot 76 and high to bot 148
+  bot 140 gives low to bot 155 and high to bot 191
+  bot 89 gives low to bot 148 and high to bot 106
+  bot 141 gives low to bot 46 and high to bot 181
+  bot 37 gives low to bot 99 and high to bot 86
+  bot 23 gives low to bot 186 and high to bot 114
+  bot 131 gives low to bot 60 and high to bot 143
+  bot 0 gives low to bot 9 and high to bot 89
+  bot 162 gives low to bot 122 and high to bot 3
+  bot 51 gives low to bot 14 and high to bot 187
+  bot 124 gives low to bot 93 and high to bot 130
+  bot 88 gives low to bot 96 and high to bot 14
+  bot 206 gives low to bot 168 and high to bot 87
+  value 7 goes to bot 197
+  bot 95 gives low to bot 209 and high to bot 142
+  bot 26 gives low to bot 33 and high to bot 144
+  bot 191 gives low to bot 82 and high to bot 6
+  bot 189 gives low to bot 13 and high to bot 72
+  bot 165 gives low to bot 118 and high to bot 155
+  bot 125 gives low to output 1 and high to bot 28
+  bot 195 gives low to bot 1 and high to bot 36
+  bot 112 gives low to bot 94 and high to bot 147
+  bot 62 gives low to bot 192 and high to bot 2
+  bot 86 gives low to bot 91 and high to bot 55
+  bot 126 gives low to output 10 and high to bot 180
+  bot 187 gives low to bot 104 and high to bot 209
+  bot 147 gives low to bot 128 and high to bot 7
+  value 53 goes to bot 156
+  bot 156 gives low to bot 111 and high to bot 173
+  value 43 goes to bot 32
+  bot 13 gives low to bot 120 and high to bot 54
+  bot 45 gives low to bot 191 and high to bot 64
+  bot 30 gives low to bot 194 and high to bot 100
+  bot 94 gives low to bot 57 and high to bot 128
+  bot 182 gives low to bot 37 and high to bot 25
+  bot 36 gives low to bot 44 and high to bot 77
+  bot 8 gives low to bot 139 and high to bot 81
+  bot 66 gives low to bot 19 and high to bot 170
+  bot 50 gives low to bot 176 and high to bot 123
+  bot 192 gives low to bot 69 and high to bot 164
+  bot 178 gives low to bot 24 and high to bot 159
+  bot 7 gives low to bot 115 and high to bot 190
+  bot 193 gives low to bot 63 and high to bot 20
+  bot 25 gives low to bot 86 and high to bot 145
+  bot 199 gives low to bot 169 and high to bot 131
+  bot 93 gives low to bot 199 and high to bot 80
+  bot 104 gives low to bot 97 and high to bot 102
+  bot 114 gives low to bot 188 and high to bot 202
+  bot 134 gives low to output 16 and high to bot 12
+  bot 203 gives low to bot 116 and high to bot 206
+  bot 98 gives low to bot 132 and high to bot 127
+  bot 123 gives low to bot 142 and high to bot 172
+  bot 121 gives low to bot 27 and high to bot 193
+  bot 207 gives low to bot 200 and high to bot 96
+  bot 176 gives low to bot 95 and high to bot 123
+  bot 204 gives low to bot 143 and high to bot 58
+  bot 132 gives low to bot 177 and high to bot 66
+  bot 155 gives low to bot 154 and high to bot 82
+  bot 27 gives low to bot 34 and high to bot 63
+  bot 74 gives low to bot 85 and high to bot 78
+  bot 60 gives low to bot 150 and high to bot 165
+  bot 85 gives low to bot 84 and high to bot 29
+  bot 79 gives low to bot 0 and high to bot 38
+  bot 159 gives low to bot 67 and high to bot 8
+  bot 1 gives low to bot 25 and high to bot 44
+  bot 41 gives low to bot 195 and high to bot 171
+  bot 100 gives low to bot 40 and high to bot 203
+  bot 200 gives low to output 15 and high to bot 61
+  value 37 goes to bot 18
+  bot 76 gives low to bot 130 and high to bot 151
+  bot 102 gives low to bot 108 and high to bot 105
+  bot 35 gives low to bot 68 and high to bot 52
+  bot 21 gives low to bot 156 and high to bot 150
+  bot 188 gives low to bot 138 and high to bot 74
+  bot 10 gives low to bot 161 and high to bot 178
+  bot 82 gives low to bot 98 and high to bot 133
+  bot 171 gives low to bot 36 and high to bot 77
+  bot 40 gives low to bot 184 and high to bot 116
+  bot 150 gives low to bot 173 and high to bot 118
+  bot 43 gives low to bot 62 and high to bot 196
+  bot 119 gives low to bot 113 and high to bot 46
+  bot 168 gives low to bot 114 and high to bot 167
+  bot 144 gives low to bot 121 and high to bot 193
+  bot 80 gives low to bot 131 and high to bot 204
+  bot 63 gives low to bot 112 and high to bot 20
+  bot 67 gives low to bot 28 and high to bot 8
+  bot 109 gives low to output 9 and high to bot 126
+  value 31 goes to bot 199
+  value 61 goes to bot 160
+  bot 87 gives low to bot 167 and high to bot 26
+  bot 138 gives low to bot 106 and high to bot 85
+  bot 108 gives low to bot 180 and high to bot 136
+  value 41 goes to bot 194
+  bot 143 gives low to bot 165 and high to bot 140
+  bot 53 gives low to bot 175 and high to bot 201
+  bot 137 gives low to bot 129 and high to bot 94
+  bot 149 gives low to bot 3 and high to bot 4
+  bot 101 gives low to bot 22 and high to bot 43'''
+  
