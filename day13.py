@@ -13,7 +13,7 @@ def day13(maze_size, start, end):
 	print(len(reachable))
 
 def get_num_ones(x, y):
-	val = x*x + 3*x + 2*x*y + y + y*y + 1350
+	val = x*x + 3*x + 2*x*y + y + y*y + 1358
 	binary_version = '{0:b}'.format(val)
 	num_ones = binary_version.count('1')
 	return num_ones
