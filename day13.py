@@ -9,20 +9,11 @@ def day13(maze_size, start, end):
 			num_ones = get_num_ones(x,y)
 			maze[y,x] = num_ones % 2
 
-	path_length = 1000
-	iterations = 1
-	while iterations < 1000:
-		path = astar(maze, start, end)
-		if path and len(path) < path_length:
-			path_length = len(path)
-			print(path_length)
-			break
-		else: 
-			maze = add_row_and_col_to_maze(maze)
-		iterations += 1
+	reachable = get_all_shortest_path(maze, start, [])
+	print(len(reachable))
 
 def get_num_ones(x, y):
-	val = x*x + 3*x + 2*x*y + y + y*y + 1358
+	val = x*x + 3*x + 2*x*y + y + y*y + 1350
 	binary_version = '{0:b}'.format(val)
 	num_ones = binary_version.count('1')
 	return num_ones
@@ -44,5 +35,15 @@ def add_row_and_col_to_maze(maze):
 		new_maze[x,y] = num_ones % 2
 	return new_maze
 
-day13(35, (1, 1), (39,31))
+def get_all_shortest_path(maze, start, reachable):
+	rows, cols = maze.shape
+	for y in range(rows):
+		for x in range(cols):
+			if (x, y) not in reachable: 
+				path = astar(maze, (1, 1), (y, x))
+				if path and len(path)<=50:
+					reachable.append((x, y))
+	return reachable
+
+day13(50, (1, 1), (39,31))
 
