@@ -5766,3 +5766,5 @@ day12 = ''' cpy 1 a
   jnz d -2
   dec c
   jnz c -5'''
+
+day14 = 'cuanljph'
