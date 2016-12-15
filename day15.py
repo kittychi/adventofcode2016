@@ -13,7 +13,9 @@ def day15(disks_start):
 		# print(count, sum(count))
 		if sum(count) == 0:
 			print(counter)
-			break
+			disks.append((7, 11, 0))
+			if len(disks) == 8:
+				break	
 		counter+=1
 	print (disks)
 
