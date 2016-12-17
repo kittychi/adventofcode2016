@@ -2,24 +2,23 @@ import inputs, re
 
 def day16(init_state, final_length): 
 	data = dragon_curve(init_state, final_length)
-	print(data)
 	return generate_checksum(data)
 
 
 def dragon_curve(a, final_length): 
-	if len(a) >= final_length:
-		return a[:final_length]
-	b = ''.join([str(abs(int(a[len(a) - i-1])-1)) for i in range(len(a))])
-	return dragon_curve(a+'0'+b, final_length)
+	while len(a) < final_length:
+		b = ''.join(['0' if i == '1' else '1' for i in a][::-1])
+		a = a+'0'+b
+	return a[:final_length]
 
 def generate_checksum(data): 
-	if len(data) % 2 == 1: 
-		print(data)
-		return data
-	
-	pairs = re.findall(r'(\d\d)', data)
-	checksum = ''.join(['0' if pair[0]!=pair[1] else '1' for pair in pairs])
-	return generate_checksum(checksum)
+	while len(data) % 2 != 1:
+		pairs = re.findall(r'(\d\d)', data)
+		data = ''.join(['0' if data[2*i]!=data[2*i+1] else '1' for i in range(len(data)//2)])
+	print(data)
+	return data
 
 
-print(day16('11110010111001001', 272))
+day16(inputs.day16, 35651584)
+
+# day16('111100001010', 40)
