@@ -5738,7 +5738,7 @@ day10 = '''bot 153 gives low to bot 105 and high to bot 10
   bot 149 gives low to bot 3 and high to bot 4
   bot 101 gives low to bot 22 and high to bot 43'''  
 
-day11 = '''thzecqozlhmhrpm first floor contains a strontium generator, a strontium-compatible microchip, a plutonium generator, and a plutonium-compatible microchip.
+day11 = '''The first floor contains a strontium generator, a strontium-compatible microchip, a plutonium generator, and a plutonium-compatible microchip.
   The second floor contains a thulium generator, a ruthenium generator, a ruthenium-compatible microchip, a curium generator, and a curium-compatible microchip.
   The third floor contains a thulium-compatible microchip.
   The fourth floor contains nothing relevant. '''
@@ -5775,3 +5775,5 @@ day15 = ''' Disc #1 has 5 positions; at time=0, it is at position 2.
   Disc #4 has 3 positions; at time=0, it is at position 2.
   Disc #5 has 19 positions; at time=0, it is at position 9.
   Disc #6 has 7 positions; at time=0, it is at position 0.'''
+
+day16 = '11110010111001001'
