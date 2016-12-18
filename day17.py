@@ -22,11 +22,7 @@ def get_unlocked_doors(code, cur_coord):
 	return actual_doors
 
 
-# start at (3, 0), going to (0, 3)
-
-get_unlocked_doors("hijklDUR", (3, 1))	
-
-def find_path(code, start, end): 
+def find_shortest_path(code, start, end): 
 	to_visit = []
 
 	cur_coord = start
@@ -36,10 +32,34 @@ def find_path(code, start, end):
 		to_visit = sorted(to_visit, key=lambda x: -len(x[0]))
 		(cur_code, cur_coord) = to_visit.pop()
 
-	print(cur_code[len(code):])
+	print(len(cur_code[len(code):]))
+
+
+def find_longest_path(code, start, end):
+	to_visit = [(code, start)]
+
+	cur_coord = start
+	cur_code = code
+	longest = ''
+
+	while to_visit:
+		to_visit.extend(get_unlocked_doors(cur_code, cur_coord))
+		to_visit = sorted(to_visit, key=lambda x: -len(x[0]))
+		(cur_code, cur_coord) = to_visit.pop()
+
+		while cur_coord == end: 
+			path = cur_code[len(code):]
+			if len(path) > len(longest): 
+				longest = path
+			(cur_code, cur_coord) = to_visit.pop()
+
+	print(len(longest))
 
 test1 = 'ihgpwlah'
 test2 = 'kglvqrro'
 test3 = 'ulqzkmiv'
 
-find_path(inputs.day17, (3, 0), (0, 3))
+# start at (3, 0), going to (0, 3)
+find_shortest_path(inputs.day17, (3, 0), (0, 3))
+
+find_longest_path(inputs.day17, (3, 0), (0, 3))
