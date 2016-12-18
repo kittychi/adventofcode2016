@@ -5777,3 +5777,5 @@ day15 = ''' Disc #1 has 5 positions; at time=0, it is at position 2.
   Disc #6 has 7 positions; at time=0, it is at position 0.'''
 
 day16 = '11110010111001001'
+
+day17 = 'qljzarfv'
